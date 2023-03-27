@@ -19,7 +19,7 @@ console.log(data[0],typeof data [0])
 console.log(data[1],typeof data [1])
 console.log(data[2],typeof data [2])
 
-//onject
+//object
 let user={
 name: "Cheok",
 faculty: "FKEKK",
